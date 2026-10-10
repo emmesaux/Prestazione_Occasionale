@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Dati personali reali: NON pubblicare
+dati_personali_da_non_caricare_su_git.json
+dati_personali.json

@@ -1,0 +1,18 @@
+{
+  "mittente": {
+    "nome": "NOME COGNOME",
+    "codice_fiscale": "XXXXXX00X00X000X",
+    "indirizzo": "Via Esempio, 1",
+    "data_nascita": "2000-01-01",
+    "iban": "IT00X0000000000000000000000",
+    "citta": "Città (XX)",
+    "descrizione_prestazione": "Prestazione occasionale per ..."
+  },
+  "cliente": {
+    "ragione_sociale": "Ragione Sociale Cliente s.r.l.",
+    "indirizzo": "Via Esempio, 1",
+    "citta": "00000 Città XX",
+    "partita_iva": "00000000000",
+    "importo_lordo": 500.0
+  }
+}
